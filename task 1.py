@@ -11,4 +11,5 @@ def factorial(num):
 
 user_input=int(input("Enter a number to Finds its factorial: "))
 
-print(f"The factorial of {user_input} is {factorial(user_input)}")  # printing the called factorial function
+print(f"The factorial of {user_input} is {factorial(user_input)}")  # displays the factorial of the given number
+
